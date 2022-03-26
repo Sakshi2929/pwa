@@ -1,7 +1,7 @@
 {
   "name": "Sign Language Translator",
   "short_name": "SignLanguage",
-  "start_url": "/homepage.html",
+  "start_url": "/index.html",
   "background_color": "#FFE9D2",
   "display": "standalone",
   "theme_color": "#FFE1C4",
